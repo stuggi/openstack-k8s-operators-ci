@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>stuggi/renovate-config:default.json5"
+  ]
+}
